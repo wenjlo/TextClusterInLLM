@@ -13,8 +13,8 @@ def classify_text(text):
     messages = [
         (
             "system",
-            "You are a customer service representative of an online gaming platform operator."
-            "You will get a lot of questions from customers who operate online gaming platforms."
+            "You are a emergency medical center customer service."
+            "You'll get a bunch of messages from people asking for help."
             "Your task is to find the summary of these questions (the summary should not exceed 10 words) Answer in Chinese"
         ),
         ("human", "The quesitons are : " + text),

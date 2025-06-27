@@ -8,7 +8,5 @@
 
 
 
-
-
 # Result
  ![screenshot](images/cluster.png)
